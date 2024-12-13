@@ -1,0 +1,9 @@
+/* components/GenrePage.module.css */
+.heading {
+    font-size: 3rem; /* Makes the text large */
+    text-align: center; /* Centers the text */
+    color: #333; /* Dark grey color for readability */
+    font-family: 'Arial', sans-serif; /* Apply a clean, readable font */
+    margin-top: 50px; /* Adds space at the top */
+  }
+  
